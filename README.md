@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Qgrad
 
 This repository contains the code used to generate the figures for the paper [*Parameter-Shift Rules for Gradients in Boson Sampling Experiments*](https://arxiv.org/abs/2607.15160), available on arXiv.
@@ -23,3 +24,6 @@ Running experiments on a physical QPU additionally requires access to the corres
 [1] N. Heurtel et al., "Perceval: A Software Platform for Discrete Variable Photonic Quantum Computing," *Quantum*, vol. 7, p. 931, 2023. [https://doi.org/10.22331/q-2023-02-21-931](https://doi.org/10.22331/q-2023-02-21-931).
 
 [2] W. R. Clements, P. C. Humphreys, B. J. Metcalf, W. S. Kolthammer, and I. A. Walmsley, "Optimal design for universal multiport interferometers," *Optica*, vol. 3, no. 12, pp. 1460–1465, 2016. [https://doi.org/10.1364/OPTICA.3.001460](https://doi.org/10.1364/OPTICA.3.001460).
+=======
+# Qgrad
+>>>>>>> b5374cab7574a4f1b8e23238c4b7d5c9ac114d87
