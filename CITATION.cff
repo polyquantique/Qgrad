@@ -1,0 +1,13 @@
+cff-version: 0.0.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Trudeau"
+  given-names: "Marius" 
+  orcid: "https://orcid.org/0009-0000-0273-9894"
+- family-names: "Quesada"
+  given-names: "Nicolás"
+  orcid: "https://orcid.org/0000-0002-0175-1688"
+title: "Parameter-Shift Rules for Gradients in Boson Sampling Experiments"
+version: 1.0.0
+date-released: 2026-07-16
+url: "https://doi.org/10.48550/arXiv.2607.15160"
